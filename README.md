@@ -13,6 +13,7 @@ This application simulates a toy robot moving on a 5x5 grid tabletop. The robot 
 ## Installation
 Clone this repository:
 - git clone https://github.com/sangspd20/RobotSimulator
+- press Start button or F5 to run project.
 
 ## Usage
 Commands should be written in `commands.txt`, for example:
